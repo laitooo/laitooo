@@ -57,5 +57,5 @@ I am a Full Software Developer from Sudan.
 
 ### ✍️ Apps in google play : 
 - [Manga Online](https://play.google.com/store/apps/details?id=zxc.laitooo.manga.online)
-- [Sky novels](https://play.google.com/store/apps/details?id=zxc.laitooo.flutter.riwayat_space)
+<!-- [Sky novels](https://play.google.com/store/apps/details?id=zxc.laitooo.flutter.riwayat_space)-->
 <!-- BLOG-POST-LIST:END -->
