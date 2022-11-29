@@ -14,7 +14,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Software Developer from Sudan.
+I am a Software Developer from Sudan.
 
 - 🔭 I’m working as a Software developer and contributing to frontend and backend for building mobile applications.
 - 🌱 Exploring Game development and machine learning.
